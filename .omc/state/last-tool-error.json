@@ -1,0 +1,7 @@
+{
+  "tool_name": "WebFetch",
+  "tool_input_preview": "{\"url\":\"https://docs.kie.ai/market/kling/kling-2-1\",\"prompt\":\"What is the exact model name string for Kling 2.1 image-to-video and first/last frame on the kie.ai POST /api/v1/jobs/createTask endpoint?...",
+  "error": "Request failed with status code 404",
+  "timestamp": "2026-04-29T02:02:15.293Z",
+  "retry_count": 1
+}
